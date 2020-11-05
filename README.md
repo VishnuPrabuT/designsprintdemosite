@@ -2,6 +2,6 @@
 
 # Made changes to the home.html file. 
 
-# Enabled Github Actions 
+# Enabled Github Actions.
 
 # Deployed my application onto Heroku.
